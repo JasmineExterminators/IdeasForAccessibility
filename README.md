@@ -64,6 +64,7 @@ Big idea: help empower by regaining hobbies, and independence and allowing possi
   - https://www.upmc.com/services/rehab/physical-medicine-rehab/conditions/spinal-cord-injury
   - (Technologies) https://www.upmc.com/services/rehab/crs/services/cat
 - Other Rehab Care (https://sais.health.pa.gov/commonpoc/content/publicweb/nhinformation2.asp?COUNTY=Allegheny)
+- Ask CMU caregiving labs
 
 ## Implementation Milestones
 - Talk to target audience, interact, ask for preferences and needs.
