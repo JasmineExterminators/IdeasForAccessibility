@@ -56,7 +56,7 @@ Big idea: help empower by regaining hobbies, and independence and allowing possi
   
 - "Globally, over 15 million people are living with spinal cord injury (**SCI**)" alone https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury
   - If reflecting the same proportion of paralysis causes, there should be around 41 million people in the world experiencing paralysis.
-- Other needs may also be benefitted from touchless technologies such as Parkinsons, 
+- Other needs may also be benefitted from touchless technologies such as Parkinson's  
 
 ## User Testing and Discovery Opportunities
 - UPMC hospital
