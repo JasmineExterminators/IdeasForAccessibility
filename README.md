@@ -1,5 +1,5 @@
 # Ideas For Touchless Accessibility
-## Application Ideas
+## Applicative Ideas
 **in addition to all time estimates, time must be allocated to improving or re-designing the eye-detection algorithm.
 ### Touchless Option for Bluff
 _Estimated Solo Implementation Time: 20 hours_  
@@ -49,10 +49,37 @@ Big idea: help empower by regaining hobbies, and independence and allowing possi
 - Sliding blocks games
 - 2048
 
+## Need Statistics
+- "Approximately 1.7 percent of the U.S. population, or 5,357,970 people reported they were living with some form of paralysis" https://www.christopherreeve.org/todays-care/paralysis-help-overview/stats-about-paralysis/
+- A large portion of people experiencing paralysis are also lower-income ----> therefore very important to keep costs low.
+  ![image](https://github.com/user-attachments/assets/74f08644-bd23-4b9a-9028-757440c310bc)
+  
+- "Globally, over 15 million people are living with spinal cord injury (**SCI**)" alone https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury
+  - If reflecting the same proportion of paralysis causes, there should be around 41 million people in the world experiencing paralysis.
+- Other needs may also be benefitted from touchless technologies such as Parkinsons, 
 
-Need Statistics
-User Testing and Discovery Opportunities
-Implementation Milestones
-Funding Options
-Crowdfunding
+## User Testing and Discovery Opportunities
+- UPMC hospital
+  - (Skilled Nursing and Rehabilitation Facilities): https://www.upmc.com/services/senior-communities/skilled-nursing/patients-families-caregivers/facilities
+  - https://www.upmc.com/services/rehab/physical-medicine-rehab/conditions/spinal-cord-injury
+  - (Technologies) https://www.upmc.com/services/rehab/crs/services/cat
+- Other Rehab Care (https://sais.health.pa.gov/commonpoc/content/publicweb/nhinformation2.asp?COUNTY=Allegheny)
+
+## Implementation Milestones
+- Talk to target audience, interact, ask for preferences and needs.
+- Improve Eye-Tracking Algorithm
+- Deploy Touchless Solitaire with target audience for initial feedback
+- Work with insights collected to modify project objectives and implementation, as well as UX considerations.
+- Implement Mark I
+- User testing
+- Adjustments to improve UX and anything else brought up
+- User testing at larger scales
+
+## Possible Explorable Funding Options
+- Crowdfunding
+- Entrepreneurship programs at CMU
+- Investors from my competitions
+- Promotion at entrepreneurship speaking events
+- Donations
+- Sponsorships
 
